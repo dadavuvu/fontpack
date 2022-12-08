@@ -1,0 +1,9 @@
+{
+    "name": "AutoChangeKRFont (AppleSDGothicNeo)",
+    "description": "Unsupported Korean fonts are automatically replaced with AppleSDGothicNeo.",
+    "version": "1.0.0",
+    "author": "dadavuvu",
+    "website": "https://robanstudio.kro.kr",
+    "theme": "AutoChangeKRFont.theme.css",
+    "license": "MIT"
+}
