@@ -1,48 +1,52 @@
+/* Default */
 @font-face {
     font-family: "AppleSDGothicNeo";
-    src: url("fonts/AppleSDGothicNeoThin.ttf");
+    src: url("https://dadavuvu.github.io/fontpack/fonts/AppleSDGothicNeoThin.ttf");
     font-weight: 100;
 }
 @font-face {
     font-family: "AppleSDGothicNeo";
-    src: url("fonts/AppleSDGothicNeoUltraLight.ttf");
+    src: url("https://dadavuvu.github.io/fontpack/fonts/AppleSDGothicNeoUltraLight.ttf");
     font-weight: 200;
 }
 @font-face {
     font-family: "AppleSDGothicNeo";
-    src: url("fonts/AppleSDGothicNeoLight.ttf");
+    src: url("https://dadavuvu.github.io/fontpack/fonts/AppleSDGothicNeoLight.ttf");
     font-weight: 300;
 }
 @font-face {
     font-family: "AppleSDGothicNeo";
-    src: url("fonts/AppleSDGothicNeoRegular.ttf");
+    src: url("https://dadavuvu.github.io/fontpack/fonts/AppleSDGothicNeoRegular.ttf");
     font-weight: 400;
 }
 @font-face {
     font-family: "AppleSDGothicNeo";
-    src: url("fonts/AppleSDGothicNeoMedium.ttf");
+    src: url("https://dadavuvu.github.io/fontpack/fonts/AppleSDGothicNeoMedium.ttf");
     font-weight: 500;
 }
 @font-face {
     font-family: "AppleSDGothicNeo";
-    src: url("fonts/AppleSDGothicNeoSemiBold.ttf");
+    src: url("https://dadavuvu.github.io/fontpack/fonts/AppleSDGothicNeoSemiBold.ttf");
     font-weight: 600;
 }
 @font-face {
     font-family: "AppleSDGothicNeo";
-    src: url("fonts/AppleSDGothicNeoBold.ttf");
+    src: url("https://dadavuvu.github.io/fontpack/fonts/AppleSDGothicNeoBold.ttf");
     font-weight: 700;
 }
 @font-face {
     font-family: "AppleSDGothicNeo";
-    src: url("fonts/AppleSDGothicNeoExtraBold.ttf");
+    src: url("https://dadavuvu.github.io/fontpack/fonts/AppleSDGothicNeoExtraBold.ttf");
     font-weight: 800;
 }
 @font-face {
     font-family: "AppleSDGothicNeo";
-    src: url("fonts/AppleSDGothicNeoHeavy.ttf");
+    src: url("https://dadavuvu.github.io/fontpack/fonts/AppleSDGothicNeoHeavy.ttf");
     font-weight: 900;
 }
 
 * {font-family: 'AppleSDGothicNeo' !important}
+/* Editor Controls */
 .codicon {font-family: 'codicon' !important}
+/* Spotify Controls */
+.contents-3ca1mk { font-family: glue1-spoticon !important; }
