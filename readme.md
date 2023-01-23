@@ -3,7 +3,9 @@
 Apply the font as you like!
 
 ## Available Font
+
 <br>
+
 | Available Font Name | Font Code | Description |
 | --- | --- | --- |
 | San Francisco | Sanfrancisco.css | This is the default English font provided by Apple. |
@@ -12,4 +14,5 @@ Apply the font as you like!
 | Nanum Myeongjo | Nanummyeongjo.css | This is a Korean Batang font provided by Naver. |
 
 ## Tutorial
+
 ![Screenshot](screenshot.png)
