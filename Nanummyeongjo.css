@@ -1,0 +1,19 @@
+/* Default */
+@font-face {
+    font-family: "NanumMyeongjo";
+    src: url("https://dadavuvu.github.io/fontpack/fonts/NanumMyeongjo.ttf");
+}
+@font-face {
+    font-family: "NanumMyeongjo";
+    src: url("https://dadavuvu.github.io/fontpack/fonts/NanumMyeongjoBold.ttf");
+    font-weight: 700;
+}
+@font-face {
+    font-family: "NanumMyeongjo";
+    src: url("https://dadavuvu.github.io/fontpack/fonts/NanumMyeongjoExtraBold.ttf");
+    font-weight: 800;
+}
+
+* {font-family: 'NanumMyeongjo' !important}
+/* Editor Controls */
+.codicon {font-family: 'codicon' !important}
