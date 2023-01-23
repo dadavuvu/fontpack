@@ -1,7 +1,6 @@
 # CustomFont
 
 Apply the font as you like!
-
 <br>
 | Available Font Name | Font Code | Description |
 | --- | --- | --- |
