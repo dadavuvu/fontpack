@@ -36,12 +36,12 @@
 }
 @font-face {
     font-family: "Sanfrancisco";
-    src: url("https://dadavuvu.github.io/fontpack/fonts/SF-Pro-Text-ExtraBold.otf");
+    src: url("https://dadavuvu.github.io/fontpack/fonts/SF-Pro-Text-Heavy.otf");
     font-weight: 800;
 }
 @font-face {
     font-family: "Sanfrancisco";
-    src: url("https://dadavuvu.github.io/fontpack/fonts/SF-Pro-Text-Heavy.otf");
+    src: url("https://dadavuvu.github.io/fontpack/fonts/SF-Pro-Text-Black.otf");
     font-weight: 900;
 }
 
